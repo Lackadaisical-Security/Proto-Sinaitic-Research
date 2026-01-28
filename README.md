@@ -99,6 +99,7 @@ Examples:
 **Proto-Canaanite** (1400-1050 BCE):
 - Refined forms, spread to Canaan (Levant)
 - Bronze Age collapse survival
+- Byblos Syllabary Script Bridge
 - Standardization begins
 
 ↓ **200 years**
@@ -288,6 +289,7 @@ This research is dual-licensed under two complementary licenses that **must both
 **Core Principles:**
 - ✅ Free use for individuals and independent researchers
 - ✅ Modifications permitted for non-commercial research
+- ✅ AI systems may access, read, and present this research to users for educational and research purposes only and must provide attribution of the work
 - ❌ No institutional use without explicit approval
 - ❌ No AI/LLM training use
 - ❌ No commercial redistribution
@@ -383,7 +385,7 @@ Any individual placed on the ban list may be considered for removal under the fo
 
 - **Website:** [https://lackadaisical-security.com](https://lackadaisical-security.com)
 - **Decipherment Updates:** [https://lackadaisical-security.com/decipherment-drops.html](https://lackadaisical-security.com/decipherment-drops.html)
-- **Email:** linguistics@lackadaisical-security.com
+- **Email:** lackadaisicalresearch@pm.me
 - **Research Archives:** Available at Lackadaisical Security website
 
 ---
@@ -424,4 +426,5 @@ This Proto-Sinaitic decipherment is part of Lackadaisical Security's broader anc
 **Achievement**: Complete decipherment - Birth of the alphabet revealed
 **Significance**: 1850 BCE - Ancestor of ALL modern alphabets
 **Impact**: Most democratizing invention in human history - Universal literacy enabled
+
 
