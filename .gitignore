@@ -70,10 +70,8 @@ out/
 [._]sw[a-p]
 *.swp
 *.swo
-*~
 
 # Emacs
-*~
 \#*\#
 /.emacs.desktop
 /.emacs.desktop.lock
@@ -85,6 +83,10 @@ tramp
 # ============================================================================
 # Build and Compilation Artifacts
 # ============================================================================
+
+# General patterns
+*.log
+*.tgz
 
 # Python
 __pycache__/
@@ -118,7 +120,6 @@ htmlcov/
 .nox/
 .hypothesis/
 *.cover
-*.log
 
 # Node.js / JavaScript
 node_modules/
@@ -129,7 +130,6 @@ lerna-debug.log*
 .npm
 .eslintcache
 .node_repl_history
-*.tgz
 .yarn-integrity
 .env.local
 .env.development.local
@@ -175,7 +175,6 @@ todo_*
 # LaTeX temporary files
 *.aux
 *.lof
-*.log
 *.lot
 *.fls
 *.out
@@ -209,7 +208,6 @@ todo_*
 *.zip
 *.tar
 *.tar.gz
-*.tgz
 *.rar
 *.7z
 *.gz
@@ -229,7 +227,7 @@ todo_*
 # Logs and Reports
 # ============================================================================
 
-*.log
+# Log files (*.log pattern defined in Build and Compilation Artifacts section)
 logs/
 *.report
 
