@@ -233,13 +233,98 @@ Achieved through:
 - **Mega-correlation**: 85+ scripts cross-referenced
 
 ## Documentation Structure
-This folder contains:
-- **Methodology**: V20 approach tailored to Proto-Sinaitic (PROTO_SINAITIC_V20_METHODOLOGY_TAILORED.md)
-- **Phase documentation**: 6-phase analysis (PHASE_1 through PHASE_6)
-- **Letter inventory**: All 22-30 signs with Egyptian sources, Semitic values, descendant forms
-- **Inscription catalog**: Complete texts from Serabit el-Khadim, Wadi el-Hol
-- **Acrophonic chart**: Hieroglyph → Word → Sound → Letter evolution
-- **Alphabet genealogy**: Full transmission chart to modern scripts
+
+This repository contains comprehensive research documentation organized into the following files:
+
+### Core Research Phases
+
+The decipherment follows a systematic 7-phase analysis methodology:
+
+1. **PHASE_1_GLYPH_INVENTORY_CLASSIFICATION_FRESH_V2.md**
+   - Complete 52-glyph corpus analysis with Egyptian sources
+   - Glyph frequency patterns and archaeological context
+   - Confidence assessment for all signs (High/Medium/Low classifications)
+   - Acrophonic principle confirmation
+
+2. **PHASE_2_MEGA_CORRELATION_ANALYSIS_69_SCRIPT_INTEGRATION.md**
+   - Cross-correlation analysis with 69+ ancient writing systems
+   - Comparative analysis with Phoenician, Aramaic, Hebrew, and other descendant scripts
+   - Pattern emergence across multiple script families
+   - Multi-script validation methodology
+
+3. **PHASE_3_SEMANTIC_CLUSTERING_ADMINISTRATIVE_CONTEXT.md**
+   - Semantic analysis of administrative and religious inscriptions
+   - Clustering of vocabulary by context (mining, religious dedications, personal names)
+   - Social and cultural context reconstruction
+
+4. **PHASE_4_PROTO_ALPHABETIC_STRUCTURE_CONSONANTAL_ANALYSIS.md**
+   - Detailed consonantal system analysis
+   - Proto-alphabetic structure establishment
+   - Phonetic value assignments
+   - 22-letter canonical alphabet reconstruction
+
+5. **PHASE_5_ARCHAEOLOGICAL_HISTORICAL_INTEGRATION.md**
+   - Archaeological site analysis (Serabit el-Khadim, Wadi el-Hol)
+   - Historical context integration (1850-1550 BCE)
+   - Worker demographics and social structure
+   - Bronze Age cultural exchange evidence
+
+6. **PHASE_6_CROSS_CULTURAL_EGYPTIAN_SEMITIC_VALIDATION.md**
+   - Egyptian-Semitic linguistic interaction analysis
+   - Cultural validation of acrophonic principle
+   - Bilingual evidence and hieroglyphic borrowing patterns
+   - Cross-cultural verification of phonetic values
+
+7. **PHASE_7_STATISTICAL_ANALYSIS_INSCRIPTIONAL_CORPUS.md**
+   - Statistical validation of decipherment results
+   - Inscriptional corpus frequency analysis
+   - Quantitative confidence metrics
+   - Mathematical proof of pattern consistency
+
+### Supporting Documentation
+
+- **proto_sinaitic_lexicon_MASTER_2025-11-11.json**
+  - Complete digital lexicon in structured JSON format
+  - All 52 glyphs with metadata, phonetic values, and Egyptian sources
+  - 42 documented inscriptions catalog
+  - Machine-readable decipherment data
+
+- **alphabet_evolutionary_chain_COMPLETE.md**
+  - Complete evolutionary chain from Egyptian hieroglyphics to modern scripts
+  - Mathematical proof via lexicon cross-correlation
+  - Transmission pathways: Proto-Sinaitic → Phoenician → Greek → Latin/Cyrillic/Arabic
+  - Timeline of alphabet development (1850 BCE to present)
+
+- **alphabet_family_tree_VISUAL.md**
+  - Visual representation of alphabet genealogy
+  - All major descendant scripts mapped
+  - Branching patterns and script families illustrated
+
+- **evolutionary_correlation_matrix_COMPLETE.md**
+  - Detailed correlation matrix showing relationships between scripts
+  - Phonetic correspondence patterns
+  - Letter-by-letter evolution tracking
+
+- **evolutionary_vocabulary_analysis_COMPLETE.md**
+  - Comparative vocabulary analysis across descendant languages
+  - Cognate identification and tracking
+  - Semantic evolution of core terms
+
+### Licensing Documentation
+
+- **ghost_license_v_1.md**
+  - Ghost License v1.0: Core usage permissions and restrictions
+  - Permission matrix for individuals, researchers, institutions
+  - No AI/LLM training use policy
+  - Institutional ban list and redemption clause
+
+- **ancient_scripts_attribution_license_v1.md**
+  - Ancient Scripts Attribution License v1.0 (ASAL-1.0)
+  - Mandatory attribution requirements
+  - Citation standards for academic and media use
+  - Source credit templates
+
+**Note**: Both licenses must be followed simultaneously for any use of this research.
 
 ## Geographic Context
 **Sinai Peninsula**:
