@@ -1,0 +1,272 @@
+# Proto-Sinaitic Research Repository - .gitignore
+# Generated for linguistic research and documentation project
+
+# ============================================================================
+# Operating System Files
+# ============================================================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# ============================================================================
+# Editors and IDEs
+# ============================================================================
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+.history/
+
+# JetBrains IDEs (IntelliJ, PyCharm, WebStorm, etc.)
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# ============================================================================
+# Build and Compilation Artifacts
+# ============================================================================
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+*.cover
+*.log
+
+# Node.js / JavaScript
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.npm
+.eslintcache
+.node_repl_history
+*.tgz
+.yarn-integrity
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ============================================================================
+# Temporary and Working Files
+# ============================================================================
+
+# General temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+*.orig
+*.rej
+*.diff
+*.patch
+*_BACKUP_*
+*_BASE_*
+*_LOCAL_*
+*_REMOTE_*
+
+# Work in progress files
+WIP_*
+wip_*
+DRAFT_*
+draft_*
+TODO_*
+todo_*
+
+# ============================================================================
+# Documentation and Research Specific
+# ============================================================================
+
+# Compiled documentation
+*.pdf.bak
+*.docx.bak
+*.odt.bak
+
+# LaTeX temporary files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+*.dvi
+*.xdv
+*-converted-to.*
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
+*.fdb_latexmk
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+
+# ============================================================================
+# Archives and Compressed Files (generally should not be in git)
+# ============================================================================
+
+# Unless specifically needed, compressed archives are usually excluded
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+*.gz
+*.bz2
+*.xz
+
+# ============================================================================
+# Database and Data Files
+# ============================================================================
+
+# Database files (if any are generated)
+*.db
+*.sqlite
+*.sqlite3
+
+# ============================================================================
+# Logs and Reports
+# ============================================================================
+
+*.log
+logs/
+*.report
+
+# ============================================================================
+# Environment and Configuration
+# ============================================================================
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Configuration files with secrets
+config/secrets.yml
+secrets.yml
+*.secret
+
+# ============================================================================
+# Project Specific Exclusions
+# ============================================================================
+
+# Exclude any test output or experimental files
+experiments/
+scratch/
+notes/
+private/
+
+# Exclude any generated analysis outputs if not meant for version control
+output/
+results/
+temp_analysis/
+
+# ============================================================================
+# Keep Important Files
+# ============================================================================
+
+# Force include certain files that might match patterns above
+!README.md
+!LICENSE
+!.gitignore
